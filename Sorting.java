@@ -6,7 +6,7 @@ public class Sorting {
        System.out.println();
     }
     public static void main(String[] args) {
-        int arr[] ={7,9,3,1,2};
+        int arr[] ={6,0,0,7,8,2};
         //bubble sort
         for(int i=0;i<arr.length-1;i++){
             for(int j=0;j<arr.length-i-1;j++){
